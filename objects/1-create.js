@@ -9,6 +9,4 @@ point3D.z = 35
 
 const newObj = Object.create(Object.prototype)
 
-
-
 console.log(point)
