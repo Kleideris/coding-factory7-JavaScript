@@ -1,0 +1,15 @@
+main > .root {
+  height: 95vh;
+}
+
+.color-green {
+  color: green;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-black {
+  color: black;
+}
